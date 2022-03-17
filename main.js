@@ -5,7 +5,7 @@ const cartDOM = document.querySelector('.cart');
 const addToCartButtonsDOM = document.querySelectorAll(
   '[data-action="ADD_TO_CART"]'
 );
-
+hi  master
 // console.log(addToCartButtonsDOM);
 // console.log(cart);
 
