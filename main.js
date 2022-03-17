@@ -12,7 +12,7 @@ hi  master
 function insertItemToDOM(product) {
   cartDOM.insertAdjacentHTML(
     'beforeend',
-    `
+    `林硒鼓
   <div class="cart-item">
     <img
       class="cart-item-image"
